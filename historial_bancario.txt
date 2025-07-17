@@ -1,0 +1,9 @@
+[2025-07-17 14:31:09] CUENTA CREADA - Cliente: OSCAR DANIEL ZARCO GONZÁLEZ, Cuenta: 123456789, Balance inicial: $300.00
+[2025-07-17 14:31:16] DEPOSITO - Monto: $200.00, Balance anterior: $300.00, Nuevo balance: $500.00
+[2025-07-17 14:31:32] RETIRO - Monto: $499.00, Balance anterior: $500.00, Nuevo balance: $1.00
+[2025-07-17 14:31:44] DEPOSITO - Monto: $799.00, Balance anterior: $1.00, Nuevo balance: $800.00
+[2025-07-17 14:31:52] SESION FINALIZADA - Balance final: $800.00
+[2025-07-17 14:33:25] CUENTA CREADA - Cliente: OSCAR DANIEL ZARCO GONZÁLEZ, Cuenta: 123456789, Balance inicial: $2,000.00
+[2025-07-17 14:33:35] DEPOSITO - Monto: $500.00, Balance anterior: $2,000.00, Nuevo balance: $2,500.00
+[2025-07-17 14:33:42] RETIRO - Monto: $400.00, Balance anterior: $2,500.00, Nuevo balance: $2,100.00
+[2025-07-17 14:33:49] SESION FINALIZADA - Balance final: $2,100.00
