@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black.svg)](https://github.com/OscarZarcoG/Bank-Python)
 
 ## 📋 Descripción
 
@@ -50,12 +51,12 @@ python --version
 ### Clonar o descargar el proyecto
 
 ```bash
-# Opción 1: Clonar repositorio (si está en Git)
-git clone <repository-url>
-cd banco-zarco
+# Opción 1: Clonar repositorio desde GitHub
+git clone https://github.com/OscarZarcoG/Bank-Python.git
+cd Bank-Python
 
 # Opción 2: Descargar archivos directamente
-# Descargar banco_simulador.py en una carpeta local
+# Descargar desde: https://github.com/OscarZarcoG/Bank-Python
 ```
 
 ### Dependencias
@@ -91,7 +92,7 @@ python banco_simulador.py
 ## 📁 Estructura del Proyecto
 
 ```
-banco-zarco/
+Bank-Python/
 │
 ├── banco_simulador.py      # Archivo principal del programa
 ├── historial_bancario.txt  # Archivo de historial (generado automáticamente)
@@ -213,9 +214,8 @@ HISTORIAL_FILE = "historial_bancario.txt"
 
 ### Versión Actual
 - ✅ Sistema de historial persistente
-- ✅ Interfaz iOS-style sin emojis
 - ✅ Validaciones robustas
-- ✅ Mensajes de confirmación con pausas
+- ✅ Mensajes de confirmación
 - ✅ Limpieza automática de pantalla
 - ✅ Manejo preciso de decimales
 
@@ -223,10 +223,11 @@ HISTORIAL_FILE = "historial_bancario.txt"
 
 Este es un proyecto educativo. Para mejoras o sugerencias:
 
-1. Revisar el código fuente
-2. Identificar áreas de mejora
-3. Implementar cambios siguiendo las convenciones existentes
-4. Probar todas las funcionalidades
+1. Fork el repositorio desde [GitHub](https://github.com/OscarZarcoG/Bank-Python)
+2. Crear una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit tus cambios (`git commit -am 'Agregar nueva funcionalidad'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Crear un Pull Request
 
 ## 📄 Licencia
 
@@ -235,9 +236,16 @@ Este proyecto es de uso educativo y está disponible bajo la licencia MIT.
 ## 👨‍💻 Autor
 
 **Oscar Daniel Zarco González**
+- GitHub: [@OscarZarcoG](https://github.com/OscarZarcoG)
 - Proyecto: Sistema Bancario Simulado
 - Tecnología: Python 3.7+
 - Enfoque: Programación orientada a objetos y validaciones robustas
+
+## 🔗 Enlaces
+
+- **Repositorio**: [https://github.com/OscarZarcoG/Bank-Python](https://github.com/OscarZarcoG/Bank-Python)
+- **Releases**: [Descargar última versión](https://github.com/OscarZarcoG/Bank-Python/releases)
+- **Issues**: [Reportar problemas](https://github.com/OscarZarcoG/Bank-Python/issues)
 
 ---
 
